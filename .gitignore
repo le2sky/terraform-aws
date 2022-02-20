@@ -4,3 +4,4 @@
 **/LICENSE
 **/*.exe
 **/*.md
+.terraform
